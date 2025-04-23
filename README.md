@@ -1,2 +1,1 @@
-# HarvardDissertationTemplate
-LaTeX Template for Harvard Dissertation
+# LaTeX Template for Harvard Dissertation
