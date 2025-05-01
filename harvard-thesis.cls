@@ -236,7 +236,7 @@
 }{}{}
 
 
-% define dedication page style; NOT adding the page number to toc
+% define dedication page style; adding the page number to toc
 \newcommand{\dedicationpage}{
 	\clearpage
 	\phantomsection
